@@ -8,7 +8,7 @@ No we are not that big! Titles may vary based on the occasion or the job. But Yo
   - Test Methodologies
 - Security Evaluation / Penetration Testing
   - Penetration Testing Network
-  - Penetration Testing a Web Application
+  - Penetration Testing Web Application
   - Penetration Testing Thic Client Application
   - Penetration Testing Industrial Hardwares (Relays, PLCs, RTUs)
 - Reverse Engineering
